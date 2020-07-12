@@ -1,4 +1,6 @@
 # AI-For-Minesweeper
+Demo: https://www.youtube.com/watch?v=MYeM4G5D6dE  
+
 AI for the game minesweeper that uses propositional logic to come up with inferences based on a knowledge base to solve a minesweeper board.  
   
 Completed as part of Harvards CS50 Intro to AI course.  
